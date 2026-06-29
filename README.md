@@ -19,4 +19,4 @@ I wanted a solid playground to practice positioning and layouts. Instead of spen
 
 The project is hosted on **Netlify**. You can check out the live version here:
 
-[🔗 View Live Demo](techstartacademy.netlify.app)
+[🔗 View Live Demo](https://techstartacademy.netlify.app/)
